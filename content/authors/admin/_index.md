@@ -13,10 +13,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: ai
-    link: "#contact"
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: vcherepa@umd.edu
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=PySUqqUAAAAJ&hl=en
@@ -34,7 +31,7 @@ education:
     - course: BSc in Mathematics
       institution: Higher School of Economics
       year: 2017
-email: vcherepa@umd.edu
+email: ""
 user_groups:
   - Researchers
   - Visitors
