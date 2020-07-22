@@ -31,7 +31,7 @@ education:
     - course: BSc in Mathematics
       institution: Higher School of Economics
       year: 2017
-email: ""
+email: vcherepa@umd.edu
 user_groups:
   - Researchers
   - Visitors
