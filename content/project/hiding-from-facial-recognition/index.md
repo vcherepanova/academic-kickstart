@@ -6,7 +6,7 @@ featured: false
 external_link: https://www.vcherepanova.com/project/hiding-from-facial-recognition/
 links: []
 image:
-  filename: baby_yoda_2.jpeg
+  filename: featured.png
   focal_point: Center
   preview_only: false
 ---
