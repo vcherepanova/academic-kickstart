@@ -3,7 +3,7 @@ title: Hiding from Facial Recognition
 date: 2020-09-13T23:22:01.799Z
 draft: false
 featured: false
-external_link: "#projects"
+external_link: project
 links: []
 image:
   filename: featured
