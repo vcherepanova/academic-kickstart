@@ -2,11 +2,11 @@
 title: Hiding from Facial Recognition
 date: 2020-09-13T23:22:01.799Z
 draft: false
-featured: true
+featured: false
 external_link: https://www.vcherepanova.com/project/hiding-from-facial-recognition/
 links: []
 image:
-  filename: my-first-document.png
+  filename: baby_yoda_2.jpeg
   focal_point: Center
   preview_only: false
 ---
