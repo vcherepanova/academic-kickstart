@@ -1,10 +1,11 @@
 +++
-title = "Transfer Learning With Intelligent Training Data Selection for Prediction of Alzheimer’s Disease"
-date = "2019-06-03"
+title = "Development of PancRISK, a urine biomarker-based risk score for stratified screening of pancreatic cancer patients"
+date = "2019-12-20"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 
-authors = ["Naimul Mefraz Khan", "**Nabila Abraham**", "Marcia Hon"]
+authors = ["Oleg Blyuss", "Alexey Zaikin", "**Valeriia Cherepanova**", "Daniel Munblit", "Elena M. Kiseleva", "Olga M. Prytomanova", "Stephen W. Duffy", "Tatjana Crnogorac-Jurcevic"]
+#authors = ["Naimul Mefraz Khan", "**Nabila Abraham**", "Marcia Hon"]
 
 # Publication type.
 # Legend:
@@ -18,20 +19,20 @@ authors = ["Naimul Mefraz Khan", "**Nabila Abraham**", "Marcia Hon"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "IEEE Access."
+publication = "British Journal of Cancer."
 #publication_short = "ISBI"
 
 # Abstract and optional shortened version.
 
-#abstract = "We propose a generalized focal loss function based on the Tversky index to address the issue of data imbalance in medical image segmentation. Compared to the commonly used Dice loss, our loss function achieves a better trade off between precision and recall when training on small structures such as lesions. To evaluate our loss function, we improve the attention U-Net model by incorporating an image pyramid to preserve contextual features. We experiment on the BUS 2017 dataset and ISIC 2018 dataset where lesions occupy 4.84% and 21.4% of the images area and improve segmentation accuracy when compared to the standard U-Net by 25.7% and 3.6%, respectively."
 
-abstract = "We utilize transfer learning on the ADNI dataset, reduced in sample size by entropy selection to acheive state-of-the-art performance in multi-task classification. We provide a detailed analysis using class activation maps to demonstrate the model's performance on neuropathological regions that are task-relevant and can help healthcare practicioners in interpreting the model's decision."
+
+abstract = "An accurate and simple risk prediction model that would facilitate earlier detection of pancreatic adenocarcinoma (PDAC) is not available at present. In this study, we compare different algorithms of risk prediction in order to select the best one for constructing a biomarker-based risk score, PancRISK."
 
 # Featured image thumbnail (optional)
 #image_preview = "static/img/ftl.png"
 
 # Is this a featured publication? (true/false)
-featured = true
+featured = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -39,9 +40,9 @@ featured = true
 #projects = ""
 
 # Links (optional).
-url_pdf = "https://ieeexplore-ieee-org.ezproxy.lib.ryerson.ca/document/8727911"
+url_pdf = "https://www.nature.com/articles/s41416-019-0694-0.pdf"
 url_preprint = ""
-url_code = "https://github.com/nabsabraham/alzheimers"
+url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = ""
@@ -59,7 +60,7 @@ url_source = ""
 math = true
 
 # Does the content use source code highlighting?
-highlight = true
+#highlight = true
   
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
@@ -68,6 +69,6 @@ image = ""
 #caption = ""
 
 +++
-A data-driven method to reduce training sample size to mitigate careful model tuning required when using transfer learning for Alzheimer's disease classification.  
+#A data-driven method to reduce training sample size to mitigate careful model tuning required when using transfer learning for Alzheimer's disease #classification.  
 
-In *IEEE Access*, 2019. 
+#In *IEEE Access*, 2019. 
