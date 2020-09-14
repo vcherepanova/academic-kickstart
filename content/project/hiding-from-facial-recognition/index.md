@@ -1,9 +1,8 @@
 ---
 title: Hiding from Facial Recognition
 date: 2020-09-13T23:22:01.799Z
-summary: Modern facial recognition systems are very advanced nowadays and might
-  be misused and abused in multiple ways by both law enforcement agencies and
-  private companies.
+summary: In this project we develop a tool to protect photos shared online from
+  facial recognition systems.
 draft: false
 featured: false
 external_link: https://www.vcherepanova.com/project/hiding-from-facial-recognition/
