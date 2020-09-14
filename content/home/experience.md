@@ -22,18 +22,28 @@ date_format = "Jan 2006"
   company = "University of Maryland"
   company_url = ""
   location = "California"
-  date_start = "2017-01-01"
-  date_end = "2017-01-01"
-  description = """ . """
-  
+  date_start = "2020-05-25"
+  date_end = "2020-08-28"
+  description = """ Developing a tool based on adversarial perturbations for protecting photos people share online. More info about this research can be found in Projects. """
+
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Graduate Research Assistant"
+  company = "University of Maryland"
   company_url = ""
   location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  date_start = "2019-05-27"
+  date_end = "2019-08-30"
+  description = """  Investigating the behaviour of approximate solutions to PDEs of order two and higher built as a linear combination of Generalized Plane Waves in the high frequency regime.  """
+  
+
+[[experience]] 
+ title = "Data Analysis Intern" 
+ company = "Teradata" 
+ company_url = "" 
+ location = "Moscow" 
+ date_start = "2016-07-01" 
+ date_end = "2016-10-01" 
+ description = """ Helping consultants with deploying machine learning methods in projects."""
 
 +++
