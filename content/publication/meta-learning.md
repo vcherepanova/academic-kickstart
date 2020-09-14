@@ -40,7 +40,7 @@ featured = true
 #projects = ""
 
 # Links (optional).
-url_pdf = "https://www.nature.com/articles/s41416-019-0694-0.pdf"
+url_pdf = "https://arxiv.org/abs/2002.06753"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
