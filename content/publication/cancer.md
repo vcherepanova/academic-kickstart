@@ -4,7 +4,7 @@ date = "2019-12-20"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 
-authors = ["Oleg Blyuss", "Alexey Zaikin", "**Valeriia Cherepanova**", "Daniel Munblit", "Elena M. Kiseleva", "Olga M. Prytomanova", "Stephen W. Duffy", "Tatjana Crnogorac-Jurcevic"]
+authors = ["Oleg Blyuss", "Alexey Zaikin", "Valeriia Cherepanova", "Daniel Munblit", "Elena M. Kiseleva", "Olga M. Prytomanova", "Stephen W. Duffy", "Tatjana Crnogorac-Jurcevic"]
 #authors = ["Naimul Mefraz Khan", "**Nabila Abraham**", "Marcia Hon"]
 
 # Publication type.
