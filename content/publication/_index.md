@@ -13,12 +13,3 @@ header:
   caption: ""
   image: ""
 ---
-
-
----
-title: Publication 1
-view: 4
-
----
-
-Here is my text
