@@ -7,7 +7,7 @@ authors:
   - admin
 title: Valeria Cherepanova
 role: PhD Student in Applied Math
-bio: My research interests include machine learning and artificial intelligence
+bio: My research focuses on adversarial machine learning and fairness in deep learning
 interests:
   - Machine Learning
 social:
