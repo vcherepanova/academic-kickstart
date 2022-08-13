@@ -39,3 +39,4 @@ user_groups:
 I am a PhD student in Applied Mathematics at UMD advised by Prof. Tom Goldstein and my research interests include interpretability and robustness of deep neural networks. Recently, I have started working in fairness in machine learning.
 
 Prior to my PhD I received bachelor’s degree in mathematics from Higher School of Economics (Moscow) and master’s degree in computational biology from University College London (London).
+
