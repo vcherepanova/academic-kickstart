@@ -19,13 +19,12 @@ authors = ["Valeriia Cherepanova", "Vedant Nanda", "Micah Goldblum", "John P Dic
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = ""
+publication = "ICLR-21 Workshop on Responsible AI"
 
 
 # Abstract and optional shortened version.
 
-abstract_short = "As machine learning algorithms have been widely deployed across applications, many concerns have been raised over the fairness of their predictions, especially in high stakes settings (such as facial recognition and medical imaging). To respond to these concerns, the community has proposed and formalized various notions of fairness as well as methods for rectifying unfair behavior. While fairness constraints have been studied extensively for classical models, the effectiveness of methods for imposing fairness on deep neural networks is unclear. In this paper, we observe that these large models overfit to fairness objectives, and produce a range of unintended and undesirable consequences. We conduct our experiments on both facial recognition and automated medical diagnosis datasets using state-of-the-art architectures."
-#abstract_short = "Hello"
+abstract = "As machine learning algorithms have been widely deployed across applications, many concerns have been raised over the fairness of their predictions, especially in high stakes settings (such as facial recognition and medical imaging). To respond to these concerns, the community has proposed and formalized various notions of fairness as well as methods for rectifying unfair behavior. While fairness constraints have been studied extensively for classical models, the effectiveness of methods for imposing fairness on deep neural networks is unclear. In this paper, we observe that these large models overfit to fairness objectives, and produce a range of unintended and undesirable consequences. We conduct our experiments on both facial recognition and automated medical diagnosis datasets using state-of-the-art architectures."
 
 # Featured image thumbnail (optional)
 image_preview = "lowkey.png"
