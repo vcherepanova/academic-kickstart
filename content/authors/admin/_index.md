@@ -5,7 +5,7 @@ organizations:
 superuser: true
 authors:
   - admin
-title: Valeria Cherepanova
+title: Valeriia Cherepanova
 role: PhD Student in Applied Math
 bio: My research focuses on adversarial machine learning and fairness in deep learning
 interests:
@@ -36,7 +36,10 @@ user_groups:
   - Researchers
   - Visitors
 ---
-I am a PhD student in Applied Mathematics at UMD advised by Prof. Tom Goldstein and my research interests include interpretability and robustness of deep neural networks. Recently, I have started working in fairness in machine learning.
+I am a PhD student in Applied Mathematics at the University of Maryland advised by Prof. Tom Goldstein and I am interested in building machine learning solutions for practical applications.
+
+My PhD research focuses on various topics in machine learning ranging from fairness and robustness of face recognition systems to tabular deep learning. 
+I did two internships at Amazon, in 2021 I developed NLP solution to monitor integrity and transparency of third-party Alexa Skills at Alexa Monitoring team and in 2022 I worked on improving Alexa Voice Search on FireTV at Alexa Entertainment team. 
 
 Prior to my PhD I received bachelor’s degree in mathematics from Higher School of Economics (Moscow) and master’s degree in computational biology from University College London (London).
 
