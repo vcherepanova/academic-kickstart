@@ -20,15 +20,31 @@ date_format = "Jan 2006"
 
 
 [[experience]]
+  title = "Applied Scientist Intern"
+  company = "Amazon"
+  company_url = ""
+  location = "Seattle"
+  date_start = "2021-05-31"
+  date_end = "2020-08-26"
+  description="Developed Machine Learning solutions for improving Alexa Voice Search on FireTV."
+
+[[experience]]
+  title = "Applied Scientist Intern"
+  company = "Amazon"
+  company_url = ""
+  location = "Seattle"
+  date_start = "2021-06-01"
+  date_end = "2020-08-27"
+  description="Developed NLP solutions to monitor integrity and transparency of 3P Alexa Skills."
+
+[[experience]]
   title = "Graduate Research Assistant"
   company = "University of Maryland"
   company_url = ""
   location = "Maryland"
   date_start = "2020-05-25"
-  date_end = "2020-08-28"
-
-
-  
+  date_end = "Present"
+  description="Work on various research projects in Deep Learning."
 
 [[experience]] 
  title = "Data Analysis Intern" 
@@ -37,6 +53,7 @@ date_format = "Jan 2006"
  location = "Moscow" 
  date_start = "2016-07-01" 
  date_end = "2016-10-01" 
+ description="Worked on educational project in Machine Learning."
 
 
 +++
