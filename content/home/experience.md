@@ -43,7 +43,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Maryland"
   date_start = "2020-05-25"
-  date_end = "Present"
+  date_end = ""
   description = "Work on various research projects in Deep Learning."
 
 [[experience]] 
