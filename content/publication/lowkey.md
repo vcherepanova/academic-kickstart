@@ -19,7 +19,7 @@ authors = ["Valeriia Cherepanova", "Micah Goldblum", "Harrison Foley", "Shiyuan 
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "	ICLR 2021."
+publication = "ICLR 2021"
 #publication_short = "ISBI"
 
 # Abstract and optional shortened version.
