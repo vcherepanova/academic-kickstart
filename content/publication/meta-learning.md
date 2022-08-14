@@ -46,7 +46,7 @@ url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = ""
-url_video = ""
+url_video = "https://icml.cc/virtual/2020/poster/6591"
 url_poster = ""
 url_source = ""
 
