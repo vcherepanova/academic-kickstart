@@ -19,7 +19,7 @@ authors = ["Valeriia Cherepanova", "Vedant Nanda", "Micah Goldblum", "John P Dic
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "ICLR 2021 Workshop on Responsible AI."
+publication = ""
 
 
 # Abstract and optional shortened version.
