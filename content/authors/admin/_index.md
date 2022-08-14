@@ -8,8 +8,6 @@ authors:
 title: Valeriia Cherepanova
 role: PhD Student in Applied Math
 bio: My research focuses on adversarial machine learning and fairness in deep learning
-interests:
-  - Machine Learning
 social:
   - icon: envelope
     icon_pack: ai
