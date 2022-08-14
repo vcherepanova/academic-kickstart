@@ -5,7 +5,7 @@ date = "2021-02-12"
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 
 #authors = ["Oleg Blyuss", "Alexey Zaikin", "**Valeriia Cherepanova**", "Daniel Munblit", "Elena M. Kiseleva", "Olga M. Prytomanova", "Stephen W. Duffy", "Tatjana Crnogorac-Jurcevic"]
-authors = ["Valeriia Cherepanova", "Micah Goldblum", "Harrison Foley", "Shiyuan Duan", "John Dickerson", "Gavin Taylor", "Tom Goldstein"]
+authors = ["Valeriia Cherepanova", "Vedant Nanda", "Micah Goldblum", "John P Dickerson", "Tom Goldstein"]
 
 # Publication type.
 # Legend:
@@ -20,12 +20,12 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "ICLR 2021 Workshop on Responsible AI."
-publication_short = "ISBI"
+
 
 # Abstract and optional shortened version.
 
-abstract = "As machine learning algorithms have been widely deployed across applications, many concerns have been raised over the fairness of their predictions, especially in high stakes settings (such as facial recognition and medical imaging). To respond to these concerns, the community has proposed and formalized various notions of fairness as well as methods for rectifying unfair behavior. While fairness constraints have been studied extensively for classical models, the effectiveness of methods for imposing fairness on deep neural networks is unclear. In this paper, we observe that these large models overfit to fairness objectives, and produce a range of unintended and undesirable consequences. We conduct our experiments on both facial recognition and automated medical diagnosis datasets using state-of-the-art architectures."
-abstract_short = "Hello"
+abstract_short = "As machine learning algorithms have been widely deployed across applications, many concerns have been raised over the fairness of their predictions, especially in high stakes settings (such as facial recognition and medical imaging). To respond to these concerns, the community has proposed and formalized various notions of fairness as well as methods for rectifying unfair behavior. While fairness constraints have been studied extensively for classical models, the effectiveness of methods for imposing fairness on deep neural networks is unclear. In this paper, we observe that these large models overfit to fairness objectives, and produce a range of unintended and undesirable consequences. We conduct our experiments on both facial recognition and automated medical diagnosis datasets using state-of-the-art architectures."
+#abstract_short = "Hello"
 
 # Featured image thumbnail (optional)
 image_preview = "lowkey.png"
