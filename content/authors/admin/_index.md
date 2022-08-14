@@ -30,18 +30,6 @@ education:
       institution: Higher School of Economics
       year: 2017
       
-experience:
-  courses:
-    - course: PhD in Applied Mathematics
-      institution: University of Maryland
-      year: 2023
-    - course: MSc in Computational Biology
-      institution: University College London
-      year: 2018
-    - course: BSc in Mathematics
-      institution: Higher School of Economics
-      year: 2017
-      
 email: vcherepa@umd.edu
 user_groups:
   - Researchers
