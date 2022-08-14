@@ -24,8 +24,6 @@ publication = "	ICLR 2021."
 
 # Abstract and optional shortened version.
 
-
-
 abstract = "Facial recognition systems are increasingly deployed by private corporations, government agencies, and contractors for consumer services and mass surveillance programs alike. These systems are typically built by scraping social media profiles for user images. Adversarial perturbations have been proposed for bypassing facial recognition systems. However, existing methods fail on full-scale systems and commercial APIs. We develop our own adversarial filter that accounts for the entire image processing pipeline and is demonstrably effective against industrial-grade pipelines that include face detection and large scale databases. Additionally, we release an easy-to-use webtool that significantly degrades the accuracy of Amazon Rekognition and the Microsoft Azure Face Recognition API, reducing the accuracy of each to below 1%."
 
 abstract_short = "We leverage adversarial attacks in our tool, LowKey, which protects social media users from invasive mass surveillance systems."
@@ -67,7 +65,7 @@ math = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "lowkey.png"
+#image = "lowkey.png"
 #caption = ""
 
 +++
