@@ -19,7 +19,7 @@ authors = ["Micah Goldblum", "Steven Reich", "Liam Fowl", "Renkun Ni", "Valeriia
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "	ICML 2020."
+publication = "ICML 2020."
 #publication_short = "ISBI"
 
 # Abstract and optional shortened version.
@@ -68,7 +68,3 @@ math = true
 image = ""
 #caption = ""
 
-+++
-#A data-driven method to reduce training sample size to mitigate careful model tuning required when using transfer learning for Alzheimer's disease #classification.  
-
-#In *IEEE Access*, 2019. 
