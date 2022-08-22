@@ -1,6 +1,5 @@
 +++
 title = "Strong data augmentation sanitizes poisoning and backdoor attacks without an accuracy tradeoff"
-
 date = "2021-06-06
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -24,7 +23,7 @@ publication = "ICASSP 2021"
 
 # Abstract and optional shortened version.
 
-abstract = "Data poisoning and backdoor attacks manipulate victim models by maliciously modifying training data. In light of this growing threat, a recent survey of industry professionals revealed heightened fear in the private sector regarding data poisoning. Many previous defenses against poisoning either fail in the face of increasingly strong attacks, or they significantly degrade performance. However, we find that strong data augmentations, such as mixup and CutMix, can significantly diminish the threat of poisoning and backdoor attacks without trading off performance. We further verify the effectiveness of this simple defense against adaptive poisoning methods, and we compare to baselines including the popular differentially private SGD (DP-SGD) defense. In the context of backdoors, CutMix greatly mitigates the attack while simultaneously increasing validation accuracy by 9%."
+abstract = "a"
 
 
 # Featured image thumbnail (optional)
