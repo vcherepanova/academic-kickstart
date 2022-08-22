@@ -19,7 +19,7 @@ authors = ["Micah Goldblum", "Steven Reich", "Liam Fowl", "Renkun Ni", "Valeriia
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "ICML 2020."
+publication = "	ICML 2020."
 #publication_short = "ISBI"
 
 # Abstract and optional shortened version.
@@ -46,7 +46,7 @@ url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = ""
-url_video = "https://icml.cc/virtual/2020/poster/6591"
+url_video = ""
 url_poster = ""
 url_source = ""
 
@@ -68,3 +68,4 @@ math = true
 image = ""
 #caption = ""
 
++++
