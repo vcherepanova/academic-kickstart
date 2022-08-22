@@ -24,8 +24,8 @@ date_format = "Jan 2006"
   company = "Amazon"
   company_url = ""
   location = "Seattle"
-  date_start = "2021-05-31"
-  date_end = "2021-08-26"
+  date_start = "2022-05-31"
+  date_end = "2022-08-26"
   description = "Developed Machine Learning solutions for improving Alexa Voice Search on FireTV."
 
 [[experience]]
@@ -33,8 +33,8 @@ date_format = "Jan 2006"
   company = "Amazon"
   company_url = ""
   location = "Seattle"
-  date_start = "2022-06-01"
-  date_end = "2022-08-27"
+  date_start = "2021-06-01"
+  date_end = "2021-08-27"
   description = "Developed NLP solutions to monitor integrity and transparency of 3P Alexa Skills."
 
 [[experience]]
