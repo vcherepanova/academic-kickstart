@@ -1,5 +1,6 @@
 +++
 title = "Strong data augmentation sanitizes poisoning and backdoor attacks without an accuracy tradeoff"
+
 date = "2021-06-06
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
