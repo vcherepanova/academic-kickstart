@@ -30,7 +30,7 @@ abstract = "As machine learning algorithms have been widely deployed across appl
 image_preview = "lowkey.png"
 
 # Is this a featured publication? (true/false)
-featured = true
+featured = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
