@@ -1,6 +1,6 @@
 +++
 title = "Transfer Learning with Deep Tabular Models"
-date = "2021-03-05"
+date = "2022-05-30"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 
